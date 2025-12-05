@@ -1,0 +1,13 @@
+/* Petite optimisation responsive + harmonie */
+
+.hero-title {
+    text-transform: uppercase;
+}
+
+.testimonials {
+    padding: 80px 20px;
+}
+
+.testimonial {
+    font-family: "Georgia", serif;
+}
